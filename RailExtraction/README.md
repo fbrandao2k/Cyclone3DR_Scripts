@@ -4,8 +4,10 @@
 Adapted script from https://github.com/Cyclone3DR/Scripts/tree/master/RailExtraction with small modifications
 This script provides a functionality to extract rails from a point cloud in Cyclone3DR. To use it, open the script editor and load RailExtraction.js and run the script.
 
-## Youtube
-Based on the youtube video: https://www.youtube.com/watch?v=aKjGRmIyJxc&ab_channel=FelipedaSilvaBrandao
+![Rails Extraction](railway_extraction.JPG)
+
+## Video
+Based on the video: https://www.youtube.com/watch?v=aKjGRmIyJxc&ab_channel=FelipedaSilvaBrandao
 
 ## Note
 
