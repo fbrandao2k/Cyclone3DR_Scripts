@@ -17,6 +17,7 @@ A rotina converte pedaços de troncos das árovres e no final calcula o volume t
 ## Passos antes de executar a rotina
 
 ### Importação de uma ou múltiplas nuvens de pontos
+Diversos formatos de nuvens de pontos podem ser importados.
 
 ### Classificação da nuvem de pontos
 A classificação tenta separar a nuvem de pontos em vegetação e em outras classes. Então, nesse caso, tirando a visualização da parte que não nos interessa e deixando apenas com a parte dos troncos, teremos nossa nuvem de pontos inicial.
