@@ -29,7 +29,8 @@ Para filtrar mais os pequenos pedaços de tronco que não nos interessa, selecio
 Esses parâmetros são explicados melhor em [Tree Meshing](https://github.com/Cyclone3DR/Scripts/tree/master/TreeMeshing). 
 Em geral, quanto menor esses parâmetros, mais vai filtrando a nuvem de pontos e vai colocando mais pedaços do tronco. Quanto maiores são esses parâmetros, menos troncos terá. 
 
-### Executar a rotina
+## Executar a rotina
 Em resumo, este código divide a nuvem de pontos em vários pedaços e faz uma malha de cada pedaço. No final, o volume total aproximado é calculado.
 
+## Agradecimento
 Espero ter ajudado e muito obrigado pelo seu tempo!
